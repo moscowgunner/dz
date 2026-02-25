@@ -1,0 +1,3 @@
+problem with dependencies, to solve use:
+sudo apt install -f
+and then repeat installation
