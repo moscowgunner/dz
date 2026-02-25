@@ -1,0 +1,5 @@
+sudo nano /etc/apt/sources.list
+comment line:
+# deb http://security.ubuntu.com/ubuntu jammy-security universe
+save
+sudo apt update
